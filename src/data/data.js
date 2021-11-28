@@ -38,8 +38,8 @@ const data = [
               
             }
           },
-          { id: "e2", source: "2-1", target: "2-2", animated: true },
-          { id: "e2", source: "2-2", target: "2-3", animated: true }
+          { id: "e2", source: "2-1", target: "2-2", animated: true, type: "smart" },
+          { id: "e2", source: "2-2", target: "2-3", animated: true, type: "smart" }
         ]
       },
       position: { x: 100, y: 125 },
@@ -50,8 +50,8 @@ const data = [
       position: { x: 250, y: 450 },
     },
     // animated edge
-    { id: 'e1-2', source: '1', target: '2', animated: true },
-    { id: 'e2-3', source: '2', target: '3' },
+    { id: 'e1-2', source: '1', target: '2', animated: true, type: "smart" },
+    { id: 'e2-3', source: '2', target: '3', type: "smart" },
   ];
 
 export default data;
