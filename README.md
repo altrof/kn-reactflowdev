@@ -2,7 +2,7 @@
 
 - url sandbox -
 
-Main goal: Show a car building flow from zero.
+Main goal: Create a flow of car building from zero with React Flow Library.
 
 > My actions: 
 
@@ -18,3 +18,6 @@ Main goal: Show a car building flow from zero.
 4. Also I used a community package for this flow "React Flow Smart Edge".
    This will help to avoid crossing the node with other nodes.
    https://github.com/tisoap/react-flow-smart-edge
+
+
+![alt text](https://image.prntscr.com/image/C82W5cZoTgag-dKu5PkDBw.png)
