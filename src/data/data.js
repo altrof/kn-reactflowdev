@@ -282,6 +282,7 @@ const data = [
   { id: 'e9', source: '9', target: '10', animated: true, type: "smart" },
   { id: 'e10', source: '10', target: '11', animated: true, type: "smart" },
   { id: 'e11', source: '11', target: '12', animated: true, type: "smart" },
+  { id: 'e12', source: '12', target: '13', animated: true, type: "smart" },
 ];
 
 export default data;

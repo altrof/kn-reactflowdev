@@ -20,4 +20,4 @@ Main goal: Create a flow of car building from zero with React Flow Library.
    https://github.com/tisoap/react-flow-smart-edge
 
 
-![alt text](https://image.prntscr.com/image/C82W5cZoTgag-dKu5PkDBw.png)
+![alt text](https://image.prntscr.com/image/6EgSvhAXRrS12T9uXxYkNQ.png)
